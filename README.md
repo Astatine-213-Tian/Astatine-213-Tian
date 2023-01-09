@@ -5,7 +5,7 @@ I'm a student software developer focusing on web development and machine learnin
 Languages I use: HTML/JavaScript/CSS, TypeScript, C/C++, Java, Python, PHP.
 
 Familiar technologies:
-- 🏖 Frontend: React.js, VUE.js, Next.js
+- 🏖 Frontend: React.js, VUE.js, Next.js, Ionic
 - 🚧 Backend: Node.js
 - 📦 Database: MySQL
 - 🌋 Machine Learning: Python, Tensorflow, PyTorch
