@@ -2,7 +2,7 @@
 
 I'm a student software developer focusing on web development and machine learning. I have experiences in designing system architecture, maintaining web systems, and training neural networks.
 
-Languages I use: HTML/JavaScript/CSS, TypeScript, C/C++, Java, Python, PHP.
+Languages I use: HTML/JavaScript/CSS, TypeScript, Python, C/C++, Java, PHP.
 
 Familiar technologies:
 - 🏖 Frontend: React.js, VUE.js, Next.js, Ionic
