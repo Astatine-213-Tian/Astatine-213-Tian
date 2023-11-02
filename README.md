@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a student software developer focusing on web development and machine learning. I have experiences in designing system architecture, maintaining web systems, and training neural networks.
+I'm a student software developer focusing on web development and machine learning. I have experience in designing system architecture, maintaining web systems, and training neural networks.
 
 Languages I use: HTML/JavaScript/CSS, TypeScript, Python, C/C++, Java, PHP.
 
 Familiar technologies:
 - 🏖 Frontend: React.js, React Native, Redux, VUE.js, Next.js, Ionic
-- 🚧 Backend: Node.js
-- 📦 Database: MySQL
+- 🚧 Backend: Node.js, prisma, trpc
+- 📦 Database: MySQL, MongoDB
 - 🌋 Machine Learning: Python, Tensorflow, PyTorch
 
 Major projects:
