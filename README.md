@@ -8,21 +8,25 @@ I'm an undergrad student at **University of Waterloo**, and a software developer
 [![My Languages](https://skillicons.dev/icons?i=ts,js,py,c,cpp,java,html,css,r,php)](https://skillicons.dev)
 
 ### Skills I mastered
-🎨 Frontend: React.js, React Native, VUE.js, Next.js, Tailwind, Ionic, Figma
+🎨 **Frontend**: React.js, React Native, VUE.js, Next.js, Tailwind, Ionic, Figma
+<p style="padding: 0 15px;">
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,figma"/>
+</p>
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,next,vue,tailwind,figma)](https://skillicons.dev)
+🚧 **Backend**: Node.js, Express.js, Prisma, GraphQL
+<p style="padding: 0 15px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,next,express,prisma,graphql"/>
+</p>
 
-🚧 Backend: Node.js, Express.js, Prisma, GraphQL
+📦 **Database**: MongoDB, DynamoDB, MySQL
+<p style="padding: 0 15px;">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql,dynamodb"/>
+</p>
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,next,express,prisma,graphql)](https://skillicons.dev)
-
-📦 Database: MongoDB, DynamoDB, MySQL
-
-[![Database Skills](https://skillicons.dev/icons?i=mongo,mysql,dynamodb)](https://skillicons.dev)
-
-🤖 Machine Learning: Tensorflow, PyTorch
-
-[![Machine Learning Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+🤖 **Machine Learning**: Tensorflow, PyTorch
+<p style="padding: 0 15px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
 
 ### Major projects
 - [👩‍💻 Beyz](https://beyz.one): Your next generation Interview Copilot
