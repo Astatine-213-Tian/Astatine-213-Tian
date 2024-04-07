@@ -9,22 +9,26 @@ I'm an undergrad student at **University of Waterloo**, and a software developer
 
 ### Skills I mastered
 🎨 **Frontend**: React.js, React Native, VUE.js, Next.js, Tailwind, Ionic, Figma
-<p style="padding: 0 15px;">
+<p>
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,figma"/>
 </p>
 
 🚧 **Backend**: Node.js, Express.js, Prisma, GraphQL
-<p style="padding: 0 15px;">
+<p>
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs,next,express,prisma,graphql"/>
 </p>
 
 📦 **Database**: MongoDB, DynamoDB, MySQL
-<p style="padding: 0 15px;">
+<p>
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongo,mysql,dynamodb"/>
 </p>
 
 🤖 **Machine Learning**: Tensorflow, PyTorch
-<p style="padding: 0 15px;">
+<p>
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
