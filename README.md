@@ -5,7 +5,7 @@
 I'm an undergrad student at **University of Waterloo**, and a software developer focusing on **web development** and **machine learning**. I have experience in designing system architecture, full-stack web app development, and training neural networks.
 
 ### Languages I used
-[![My Languages](https://skillicons.dev/icons?i=ts,js,py,c,cpp,java,html,css,r,php)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=ts,js,py,c,cpp,kotlin,java,html,css,r,php)](https://skillicons.dev)
 
 ### Skills I mastered
 🎨 **Frontend**: React.js, React Native, VUE.js, Next.js, Tailwind, Ionic, Figma
