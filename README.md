@@ -14,10 +14,10 @@ I'm an undergrad student at **University of Waterloo**, and a software developer
   <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,figma"/>
 </p>
 
-🚧 **Backend**: Node.js, Express.js, Prisma, GraphQL
+🚧 **Backend**: Node.js, Express.js, Hono, Nest.js, Prisma, GraphQL
 <p>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,next,express,prisma,graphql"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nest,prisma,graphql"/>
 </p>
 
 📦 **Database**: MongoDB, DynamoDB, MySQL
